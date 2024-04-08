@@ -1,4 +1,4 @@
-# Amazon-CloneAmazon Clone Website
+# Amazon Clone Website
 This project is an Amazon clone website built using HTML and CSS only. It replicates the front-end design and functionality of the popular e-commerce platform Amazon, allowing users to browse products, view product details, and add items to their cart.
 
 Features
